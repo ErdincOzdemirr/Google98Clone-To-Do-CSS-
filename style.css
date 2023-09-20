@@ -1,0 +1,32 @@
+/* body arkaplan */
+body {
+    background-color: #FFFFFF;
+}
+/* tableın tamamının genişliği ve kenarlığı */
+.box1 {
+    width: 90%;
+    border: 0;
+    margin-left: 50px;
+    text-align: center;
+}
+/* table içerisindeki ilk satırın boyutu ve dış boşluk stili */
+.box2  {
+    background-color: #EEEEEE;
+    text-align: center;
+}
+
+/* table içerisindeki satır ve sütunların arka plan rengi ve iç boşluk boyutu */
+.box3 {
+    background-color: #7EE5DA;
+    height: 80px;
+}
+.box4{
+    background-color: #70CCC2;
+    font-size: -1;
+    height: 80px;
+}
+.box5{
+    text-align: center;
+    background-color: #62B3AA;
+    height: 80px;
+}
